@@ -1,5 +1,5 @@
 # stock-picker
-#stock_picker method implementation
+Method implementation
 
 Method takes:
   - an array of stock prices, one for each hypothetical day
